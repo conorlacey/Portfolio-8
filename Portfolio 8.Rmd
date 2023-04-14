@@ -1,0 +1,21 @@
+---
+title: "Portfolio 8"
+author: "Conor Lacey"
+date: "2023-04-14"
+output: github_document
+---
+
+```{r libraries}
+suppressWarnings(library(tidyverse))
+```
+### Introduction 
+
+In this portfolio I am now going to animate a spike and slab graph to demonstrate how this graph updates with new information. This will be very similar to my previous portfolio except now I'm working with two priors (i.e., the spike and the slab). 
+
+### What does it look like? 
+
+It is a good idea to first look at what exactly we are trying to create.
+
+![Spike-and-Slab Plot Example]("SpikeSlabPlot.png")
+
+
